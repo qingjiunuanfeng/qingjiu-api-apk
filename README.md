@@ -4,7 +4,8 @@
 
 ## 下载
 
-- 推荐从 GitHub Releases 下载最新版 APK。
+- 最新版 APK：https://github.com/qingjiunuanfeng/qingjiu-api-apk/releases/download/v1.0.0/Qingjiu-API.apk
+- Release 页面：https://github.com/qingjiunuanfeng/qingjiu-api-apk/releases/tag/v1.0.0
 - 仓库内也保留了一份安装包：`dist/Qingjiu-API.apk`
 
 ## 说明
@@ -13,4 +14,3 @@
 - 包名：`top.nemodesk.qingjiuapi`
 - 最低 Android 版本：Android 6.0
 - 当前版本：`1.0.0`
-
